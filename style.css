@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    padding: 20px;
+    display: flex;
+    border-radius: 5px;
+}
+
+.border {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-left: 3px solid black;
+}
