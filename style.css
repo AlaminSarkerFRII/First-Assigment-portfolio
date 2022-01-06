@@ -87,5 +87,9 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer p {
+    font-style: normal;
 }
