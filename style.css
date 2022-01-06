@@ -40,11 +40,11 @@ h1 {
 
 .link-button {
     text-decoration: none;
-    background-color: tomato;
-    padding: 5px 10px;
+    background-color: midnightblue;
+    padding: 5px;
     border-radius: 10px;
     color: white;
-    font-weight: 700;
+
 }
 
 h3 {
